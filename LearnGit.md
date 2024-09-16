@@ -134,6 +134,7 @@ git clone git@github.com:username/repository.git
 cd repository
 git branch -M main
 git push -u origin main
+```
 
 Command lines to pull the changes from the remote repository:
 ```
