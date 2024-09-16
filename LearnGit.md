@@ -1,4 +1,13 @@
-[TOC]
+# Table of Contents
+
+1. [Install Git](#install-git)
+2. [Configure Git](#configure-git)
+3. [Create a new repository](#create-a-new-repository)
+4. [Git commands for adding, committing, and managing changes](#git-commands-for-adding-committing-and-managing-changes)
+5. [Git commands for managing remote repositories](#git-commands-for-managing-remote-repositories)
+6. [Push the changes to the remote repository](#push-the-changes-to-the-remote-repository)
+7. [Branch management](#branch-management)
+
 
 ## Install Git
 
