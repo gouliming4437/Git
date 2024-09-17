@@ -7,6 +7,7 @@
 5. [Git commands for managing remote repositories](#git-commands-for-managing-remote-repositories)
 6. [Push the changes to the remote repository](#push-the-changes-to-the-remote-repository)
 7. [Branch management](#branch-management)
+8. [Recommended resouces for git learning](#recommended-resouces-for-git-learning)
 
 
 ## Install Git
