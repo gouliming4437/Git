@@ -202,6 +202,10 @@ git push -u origin main
 4. `git merge <branch>` - merge the branch to the current branch
 5. `git branch -d <branch>` - delete the branch
 
+## Recommended resouces for git learning
+1. [git-flight-rules](https://github.com/k88hudson/git-flight-rules) - a guide for git commands
+2. [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf) - a cheat sheet for git commands
+
 reference:
 1. https://liaoxuefeng.com/books/git/introduction/index.html
 2. https://blog.csdn.net/m0_52559040/article/details/131426957
